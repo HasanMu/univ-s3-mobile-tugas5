@@ -18,6 +18,10 @@ Dua file utama untuk tugas ini adalah:
 - [tugas5.xml](app/src/main/res/layout/tugas5.xml)
 - [Tugas5activity.kt](app/src/main/java/com/example/empty_views/Tugas5activity.kt)
 
+## Screenshot
+
+![screenshot-tugas5.jpeg](screenshot-tugas5.jpeg)
+
 ## Catatan
 
 - Tampilan dan logika form diletakkan di dua file di atas.
