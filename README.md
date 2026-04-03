@@ -27,3 +27,7 @@ Dua file utama untuk tugas ini adalah:
 - Tampilan dan logika form diletakkan di dua file di atas.
 - README ini hanya mencakup Tugas 5.
 - Project sudah sempat diuji dalam mode debug.
+
+## Demo Video
+
+Untuk demo video bisa di akses lewat link berikut: [https://www.youtube.com/watch?v=Y8ae465EQLM](https://www.youtube.com/watch?v=Y8ae465EQLM)
