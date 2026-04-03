@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="text">Sign Up</string>
+    <string name="label___username">Username</string>
+    <string name="e_g__alex_doe">e.g. alex_doe</string>
+    <string name="password">Password</string>
+    <string name="________">••••••••</string>
+</resources>
